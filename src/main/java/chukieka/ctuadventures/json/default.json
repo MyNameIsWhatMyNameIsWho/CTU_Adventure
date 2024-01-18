@@ -1,0 +1,119 @@
+{
+  "monsters": [
+    {
+      "worldX": 12,
+      "worldY": 26,
+      "name": "Youtube",
+      "life": 4
+    },
+    {
+      "worldX": 11,
+      "worldY": 23,
+      "name": "Youtube",
+      "life": 4
+    },
+
+    {
+      "worldX": 11,
+      "worldY": 27,
+      "name": "Youtube",
+      "life": 4
+    },
+
+    {
+      "worldX": 26,
+      "worldY": 20,
+      "name": "Youtube",
+      "life": 4
+    },
+
+    {
+      "worldX": 22,
+      "worldY": 23,
+      "name": "Youtube",
+      "life": 4
+    },
+
+    {
+      "worldX": 21,
+      "worldY": 23,
+      "name": "Youtube",
+      "life": 4
+    },
+
+    {
+      "worldX": 40,
+      "worldY": 29,
+      "name": "Professor",
+      "life": 10
+    }
+  ],
+  "inventory": [
+    {
+      "name": "Key"
+    }
+  ],
+  "objects": [
+    {
+      "name": "Pen",
+      "worldX": 11,
+      "worldY": 26
+    },
+    {
+      "name": "Coffee",
+      "worldX": 12,
+      "worldY": 26
+    },
+    {
+      "name": "Key",
+      "worldX": 9,
+      "worldY": 22
+    },
+    {
+      "name": "Coffee",
+      "worldX": 24,
+      "worldY": 20
+    },
+    {
+      "name": "Boots",
+      "worldX": 35,
+      "worldY": 20
+    },
+    {
+      "name": "Door",
+      "worldX": 15,
+      "worldY": 22
+    },
+    {
+      "name": "Door",
+      "worldX": 15,
+      "worldY": 23
+    },
+    {
+      "name": "Door",
+      "worldX": 27,
+      "worldY": 21
+    },
+    {
+      "name": "Pen",
+      "worldX": 30,
+      "worldY": 23
+    },
+    {
+      "name": "Key",
+      "worldX": 20,
+      "worldY": 22
+    },
+    {
+      "name": "Key",
+      "worldX": 24,
+      "worldY": 26
+    }
+  ],
+  "worldX": 12,
+  "worldY": 20,
+  "lifes": 6,
+  "speed": 7,
+  "gameOverTimeInSeconds": 40,
+  "elapsedTime": 0
+}
