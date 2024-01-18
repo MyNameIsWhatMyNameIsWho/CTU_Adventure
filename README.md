@@ -1,6 +1,6 @@
 # CTU Adventure Game Engine
 
-Welcome to CTU Adventure, a game engine that allows you to create customizable levels with the main objective of reaching the boss in time and defeating him.
+Welcome to CTU Adventure, a game engine based on Java that allows you to create customizable levels with the main objective of reaching the boss in time and defeating him.
 
 ## Overview
 
